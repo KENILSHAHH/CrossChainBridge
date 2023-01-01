@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+node_modules
 
 # testing
 /coverage
@@ -15,7 +16,7 @@
 /out/
 
 # production
-/build
+
 
 # misc
 .DS_Store
@@ -30,15 +31,9 @@ yarn-error.log*
 # local env files
 .env*.local
 
-# vercel
-.vercel
+
 
 # typescript
 *.tsbuildinfo
 
 
-
-artifacts
-cache
-
-local.json
