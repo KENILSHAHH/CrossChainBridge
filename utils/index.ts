@@ -227,6 +227,6 @@ const getGasFee = async (
     estimatedGasUsed?: number
 ) => {
     const api = new AxelarQueryAPI({ environment: Environment.TESTNET });
-    const gasFee = isTestnet ? await api.estimateGasFee(sourceChainName, destinationChainName, sourceChainTokenSymbol) : 2e4;
+    const gasFee = isTestnet ? await api.estimateGasFee(sourceChainName, destinationChainName, sourceChainTokenSymbol) : 3e6;
     return gasFee;
 };
