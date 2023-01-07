@@ -2,6 +2,7 @@ import fs from 'fs/promises';
 import { getDefaultProvider, utils } from 'ethers';
 import { isTestnet, wallet } from '../config/constants';
 
+
 const {
     utils: { deployContract },
 } = require('@axelar-network/axelar-local-dev');

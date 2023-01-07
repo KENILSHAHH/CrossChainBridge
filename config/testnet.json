@@ -10,8 +10,8 @@
     "executableSample": "0x9372350Abb3B5c10DB1BB858e0bCf91eFa74d946",
     "constAddressDeployer": "0xd5bf7311032fe5dde956de6f2916f135a140e7dd",
     "crossChainToken": "0xb5ADB662B1DebDCc96c4d7c406aDF20F310aEe0B",
-    "erc721": "0x2aA6b3442C064d54d83aE4e828b4d4BdE9b5b67d",
-    "nftLinker": "0x4f66d62519a0E8d8fFC79Ec26b2c31Ce7BE90149"
+    "erc721": "0x2138440dF6498De9fd0372DC7B1e31E840A44635",
+    "nftLinker": "0xB4cD414729656e31012eDD7F2d647De520757F8C"
   },
   {
     "name": "Fantom",
@@ -24,7 +24,7 @@
     "executableSample": "0x2120A291a99746726CFa3bCcd3C388da75f7e718",
     "constAddressDeployer": "0xd5bf7311032fe5dde956de6f2916f135a140e7dd",
     "crossChainToken": "0xb5ADB662B1DebDCc96c4d7c406aDF20F310aEe0B",
-    "erc721": "0x222b2AEaF5383DD568E8F845CF492aaF5A6ED623",
-    "nftLinker": "0x4f66d62519a0E8d8fFC79Ec26b2c31Ce7BE90149"
+    "erc721": "0x18f53cB8d061FB12AC97B554b3830EA483027A52",
+    "nftLinker": "0xB4cD414729656e31012eDD7F2d647De520757F8C"
   }
 ]

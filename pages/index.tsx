@@ -102,7 +102,7 @@ const Home: NextPage = () => {
     return (
         <div>
            
-            <h2 className="m-5 text-2xl font-medium text-center">Mulletverse cross chain app using axelar</h2>
+            <h2 className="m-5 text-2xl font-medium text-center">CrossNftApp</h2>
 
             <div className="grid grid-cols-2 gap-20 mt-10 justify-items-center">
                 {/* source chain card */}
@@ -173,7 +173,7 @@ const generateCard = (txhash: string, chain: any, onSubmit: any, buttonTitle: st
                         {txhash && <>Tx: {truncatedAddress(txhash)}</>}
                         {txhash && isTestnet && (
                             <a href={`https://testnet.axelarscan.io/gmp/${txhash}`} className="mt-2 link link-accent" target="blank">
-                                Track at axelarscan
+                                Track
                             </a>
                         )}
                         <br />
